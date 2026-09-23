@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Yash Bansal 👋
 
-<!--
-**yashbansal18/Yashbansal18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Mobile Developer based in India, open to relocation across World.
 
-Here are some ideas to get you started:
+7+ years building cross-platform mobile apps for hospitality loyalty brands —
+Club Marriott, Radisson, The Leela — reaching 2Cr+ users across South Asia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stack
+
+**Mobile**: Ionic · Angular · TypeScript · Capacitor · Cordova  
+**Full-Stack**: Node.js · Express · MongoDB · Angular  
+**Tools**: RxJS · JWT · REST APIs · Git · Appflow · Firebase  
+
+---
+
+## Currently
+
+- Building full-stack skills in NestJS + PostgreSQL
+- Targeting senior mobile/full-stack roles in Europe
+- Open to hybrid or onsite opportunities with visa sponsorship
+
+---
+
+## Projects
+
+- 🔗 [Finance Tracker](https://my-finance-tracker-qxfo.vercel.app/auth/login) — Angular + Node.js + MongoDB
+- 🌐 [Portfolio](https://yashbansal.in)
+
+---
+
+## Connect
+
+- 💼 [LinkedIn](your-linkedin-url-here)
+- 🌐 [yashbansal.in](https://yashbansal.in)
