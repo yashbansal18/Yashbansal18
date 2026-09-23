@@ -32,5 +32,5 @@ Club Marriott, Radisson, The Leela — reaching 2Cr+ users across South Asia.
 
 ## Connect
 
-- 💼 [LinkedIn](your-linkedin-url-here)
+- 💼 [LinkedIn]([your-linkedin-url-here](https://www.linkedin.com/in/yash-bansal-078492129/))
 - 🌐 [yashbansal.in](https://yashbansal.in)
